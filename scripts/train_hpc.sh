@@ -12,7 +12,7 @@
 
 module load python/anaconda3
 eval "$(conda shell.bash hook)"
-conda activate py39
+conda activate HPE
 
 expansion=2
 epoch=200
