@@ -1,0 +1,15 @@
+Evaluation results on radarpose vs mmpose:
+Average mean EPE: 47.086 pixels
+Average median EPE: 43.236 pixels
+Area under curve: 0.082
+------------------------------------
+Evaluation results on test_data on radar:
+Average mean EPE: 30.248 pixels
+Average median EPE: 25.684 pixels
+Area under curve: 0.332
+------------------------------------
+Evaluation results on mediapipe vs mmpose:
+Average mean EPE: 33.616 pixels
+Average median EPE: 31.500 pixels
+Area under curve: 0.224
+(py39) vudle@phenikaax:RadarPose(b_v3.1.0)$
