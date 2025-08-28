@@ -51,10 +51,18 @@ pip3 install -r requirements.txt
 
 ⚠️ **Important:** Please update the default dataset directory in `scripts/train_hpc.sh` to the absolute path of your dataset.
 
-### 1. Structure the project
+##### 1. Structure the project
 Before running training scripts, first structure the project by executing:
 ```bash
 bash scripts/structure_project.sh
+```
+##### 2. Launch training
+
+You can modify training parameters directly in `scripts/train_hpc.sh` (they are passed to `train.py`),  
+or simply start training with:
+
+```bash
+sbatch scripts/train_hpc.sh
 ```
 
 #### 📊 Tracking Training with Weights & Biases (Wandb)
