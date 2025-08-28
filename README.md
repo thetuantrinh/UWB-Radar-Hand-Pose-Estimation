@@ -95,7 +95,6 @@ wandb sync your-local-wandb-log-folder/offline-run*
 ```
 👉 Remeber to replace `your-local-wandb-log-folder` with the path to your actual Wandb logs directory.
 
-## 🧪 The system was tested on:  
-[AlmaLinux release 8.5 (Arctic Sphynx)](https://wiki.almalinux.org/release-notes/8.5.html)
+## 🧪 The system was tested on: [AlmaLinux release 8.5 (Arctic Sphynx)](https://wiki.almalinux.org/release-notes/8.5.html)
 
 
