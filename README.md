@@ -33,6 +33,7 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 ## 🚀 Quickstart
 ```bash
 git clone https://github.com/thetuantrinh/UWB-Radar-Hand-Pose-Estimation.git
+cd UWB-Radar-Hand-Pose-Estimation
 ```
 
 #### 🛠 Environment
