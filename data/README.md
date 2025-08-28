@@ -1,5 +1,5 @@
-# Dataset structure should look like the ImageNet
-.
+## Dataset structure should look like the ImageNet
+```bash
 ├── dataset
 │   ├── images
 │   │   ├── empty
@@ -39,3 +39,4 @@ dataset/
         └── 0.npy
 
 13 directories, 7 files
+```
