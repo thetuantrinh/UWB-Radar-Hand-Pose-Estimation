@@ -88,9 +88,16 @@ To fix this, run in **offline mode**:
 ```bash
 wandb offline
 ```
+
 After training, sync all locally saved Wandb logs to the cloud:
 ```bash
 wandb sync your-local-wandb-log-folder/offline-run*
 ```
 👉 Remeber to replace `your-local-wandb-log-folder` with the path to your actual Wandb logs directory.
+
+## 🧪 System Information  
+
+The system was tested on:  
+
+AlmaLinux release 8.5 (Arctic Sphynx)
 
