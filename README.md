@@ -11,12 +11,16 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 *Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
 
 <p align="center">
-  <img src="doc/images/Radar-Cam-Pose-1.png" width="45%">
-  <img src="doc/images/Radar-Cam-Pose-2.png" width="45%">
+  <img src="doc/images/Radar-Cam-Pose-1.png" width="50%">
+  <img src="doc/images/Radar-Cam-Pose-2.png" width="50%">
 </p>
 
 <p align="center">
-  <em>Visual comparison between hand key points estimated by [MediaPipe Hands](https://arxiv.org/abs/2006.10214) and proposed RadarNet model. Blue dots are key points estimated by the visual model while red ones are from RadarNet.</em>
+  <em>
+    Visual comparison between hand key points estimated by 
+    <a href="https://arxiv.org/abs/2006.10214">MediaPipe Hands</a> 
+    and proposed RadarNet model. Blue dots are key points estimated by the visual model while red ones are from RadarNet.
+  </em>
 </p>
 
 ## 🚀 Quickstart
