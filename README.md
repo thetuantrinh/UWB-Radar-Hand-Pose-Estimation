@@ -11,7 +11,7 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 *Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
 
 <p align="center">
-  <img src="doc/images/Radar-Cam-Pose-1.png" width="48%">
+  <img src="doc/images/Radar-Cam-Pose-1.png" width="48.5%">
   <img src="doc/images/Radar-Cam-Pose-2.png" width="49%">
 </p>
 
