@@ -1,6 +1,7 @@
 # UWB-Radar-Hand-Pose-Estimation
 
-This repo contains code for manuscript: <h2 style="color:blue;">
+This repo contains code for manuscript: 
+<h2 style="color:blue;">
 Radar-Based Hand Pose Estimation: Advancing Human-Computer Interaction with FMCW Radar on Edge Devices
 </h2>
 
