@@ -26,7 +26,8 @@ conda activate HPE
 ```bash
 pip3 install -r requirements.txt
 ```
-### Traning
+
+### Training
 Please remember to change your default data dir in the train_hpc.sh script by the absolute path to your dataset.
 ***Before running scripts for training, run the following scripts to structure the project:***
 ```bash
