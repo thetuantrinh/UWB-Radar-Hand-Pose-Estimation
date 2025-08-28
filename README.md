@@ -46,10 +46,16 @@ bash scripts/structure_project.sh
 pip install wandb
 ``` 
 
-#### Potential problems
-If you're training on a machine that doesn't have internet connection, let's say a compute node on a HPC cluster, your code will not run since wandb doesn't have internet. To run it and then sync to wandb cloud for synchonization, open the terminal or pass the following line of code to your `sh` script:
+#### ⚠️ Potential Problems (HPC without Internet)
+
+If you're training on a machine without internet connection (e.g., an HPC compute node), Wandb will not work online.  
+To fix this, run in **offline mode**:
 ```bash
 wandb offline
 ```
-To push all these locally saved wandb logs and information to the cloud (wandb.ai), simple run `wandb sync your-local-wandb-log-folder/offline-run*`. Remeber to replace `your-local-wandb-log-folder` by your own
+After training, sync all locally saved Wandb logs to the cloud:
+```bash
+wandb sync your-local-wandb-log-folder/offline-run*
+```
+👉 Remeber to replace `your-local-wandb-log-folder` with the path to your actual Wandb logs directory.
 
