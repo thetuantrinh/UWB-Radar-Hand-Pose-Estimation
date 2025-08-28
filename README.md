@@ -9,6 +9,14 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 | ![](doc/images/radar_dark_cases_demo.jpg) | ![](doc/images/cam_dark_cases_demo.jpg) |
 
 *Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
+<p align="center">
+  <em>
+    Visual comparison between hand key points estimated by proposed RadarNet model and 
+    <a href="https://arxiv.org/abs/2006.10214">MediaPipe Hands</a> 
+    on dark scenes.
+  </em>
+</p>
+
 ### 🔅 Demo Results in Light Scenes
 <p align="center">
   <img src="doc/images/Radar-Cam-Pose-1.png" width="48.5%">
