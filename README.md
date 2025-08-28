@@ -76,8 +76,7 @@ bash scripts/eval.sh
 #### 📊 Tracking Training with Weights & Biases (Wandb)
 
 [Wandb](https://wandb.ai) is a great tool for experiment tracking and visualization.  
-
-1. Install with pip:
+Install with pip:
 ```bash
 pip install wandb
 ``` 
