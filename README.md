@@ -7,7 +7,7 @@ This repo contains code for manuscript: Radar-Based Hand Pose Estimation: Advanc
 |-------------------|--------------------|
 | ![](doc/images/radar_dark_cases_demo.jpg) | ![](doc/images/cam_dark_cases_demo.jpg) |
 
-*Visual comparison between hand key points estimated by [MediaPipe Hands](https://arxiv.org/abs/2006.10214) and proposed RadarPose model on dark scenes.*
+*Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
 
 
 
