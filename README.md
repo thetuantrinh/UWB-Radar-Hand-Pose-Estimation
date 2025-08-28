@@ -37,8 +37,14 @@ Before running training scripts, first structure the project by executing:
 bash scripts/structure_project.sh
 ```
 
-### Tracking training with Wandb
-Wandb is a great tool for visualization. Install it with pip, then register for an account on wandb.ai to get an API for use. Follow the page on how to achieve this. 
+### 📊 Tracking Training with Weights & Biases (Wandb)
+
+[Wandb](https://wandb.ai) is a great tool for experiment tracking and visualization.  
+
+1. Install with pip:
+```bash
+pip install wandb
+``` 
 
 #### Potential problems
 If you're training on a machine that doesn't have internet connection, let's say a compute node on a HPC cluster, your code will not run since wandb doesn't have internet. To run it and then sync to wandb cloud for synchonization, open the terminal or pass the following line of code to your `sh` script:
