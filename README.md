@@ -4,13 +4,20 @@ This repo contains code for manuscript: Radar-Based Hand Pose Estimation: Advanc
 
 
 <p align="center">
-  <img src="doc/images/radar_dark_cases_demo.jpg" alt="(a) Radar signals" width="45%">
-  <img src="doc/images/cam_dark_cases_demo.jpg" alt="(b) Camera signals" width="45%">
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="docs/images/radar_dark_cases_demo.jpg" width="45%">
+    <figcaption>(a) Radar signals</figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="docs/images/cam_dark_cases_demo.jpg" width="45%">
+    <figcaption>(b) Camera signals</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <em>Figure: Visual comparison between hand key points estimated by MediaPipe Hand model [9] and proposed model on dark scenes, (a) The poses from radar signals, (b) The poses estimated by MediaPipe.</em>
+  <em>Visual comparison between hand key points estimated by MediaPipe Hand model [9] and proposed model on dark scenes, (a) The poses from radar signals, (b) The poses estimated by MediaPipe.</em>
 </p>
+
 
 
 ```bash
