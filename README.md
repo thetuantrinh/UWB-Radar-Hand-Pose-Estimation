@@ -1,7 +1,8 @@
 # UWB-Radar-Hand-Pose-Estimation
 
 This repo contains code for manuscript: Radar-Based Hand Pose Estimation: Advancing Human-Computer Interaction with FMCW Radar on Edge Devices
-Run
+
+
 ```bash
 git clone https://github.com/thetuantrinh/UWB-Radar-Hand-Pose-Estimation.git
 ```
