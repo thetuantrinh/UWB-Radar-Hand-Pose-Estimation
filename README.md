@@ -27,16 +27,16 @@ conda activate HPE
 pip3 install -r requirements.txt
 ```
 
-### Training
-Please remember to change your default data dir in the train_hpc.sh script by the absolute path to your dataset.
-***Before running scripts for training, run the following scripts to structure the project:***
+### 📚 Training
+
+⚠️ **Important:** Please update the default dataset directory in `scripts/train_hpc.sh` to the absolute path of your dataset.
+
+### 1. Structure the project
+Before running training scripts, first structure the project by executing:
 ```bash
 bash scripts/structure_project.sh
 ```
-To train the model with different settings, you can see parameters being passed to the train.py function in scripts/train_hpc.sh, or simply run it with:
-```bash
-sbatch scripts/train_hpc.sh
-```
+
 ### Tracking training with Wandb
 Wandb is a great tool for visualization. Install it with pip, then register for an account on wandb.ai to get an API for use. Follow the page on how to achieve this. 
 
