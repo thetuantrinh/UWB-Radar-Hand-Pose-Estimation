@@ -11,7 +11,7 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 *Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
 
 
-
+## 🚀 Quickstart
 ```bash
 git clone https://github.com/thetuantrinh/UWB-Radar-Hand-Pose-Estimation.git
 ```
