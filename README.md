@@ -16,7 +16,7 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 git clone https://github.com/thetuantrinh/UWB-Radar-Hand-Pose-Estimation.git
 ```
 
-## Environment
+## 🛠 Environment
 The original project was developed on python 3.9.0. We encourage you to create the same python version for reproduce purposes by creating python3.9 with conda by the following script:
 ```bash
 conda create --name HPE python==3.9
