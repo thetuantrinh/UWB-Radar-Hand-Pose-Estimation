@@ -3,13 +3,13 @@
 This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based Hand Pose Estimation: Advancing Human-Computer Interaction with FMCW Radar on Edge Devices</b></span>.
 
 ## 🎥 Demo
-### Dark
+### 🌙 Demo Results in Dark Scenes
 | (a) The poses estimated from FMCW Radar signals | (b) The poses estimated from Camera signals |
 |-------------------|--------------------|
 | ![](doc/images/radar_dark_cases_demo.jpg) | ![](doc/images/cam_dark_cases_demo.jpg) |
 
 *Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
-### Light
+### 🔅 Demo Results in Light Scenes
 <p align="center">
   <img src="doc/images/Radar-Cam-Pose-1.png" width="48.5%">
   <img src="doc/images/Radar-Cam-Pose-2.png" width="49%">
