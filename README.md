@@ -3,6 +3,17 @@
 This repo contains code for manuscript: Radar-Based Hand Pose Estimation: Advancing Human-Computer Interaction with FMCW Radar on Edge Devices
 
 
+<p align="center">
+  <img src="docs/images/radar_dark_cases_demo.jpg" alt="(a) Radar signals" width="45%">
+  <img src="docs/images/cam_dark_cases_demo.jpg" alt="(b) Camera signals" width="45%">
+</p>
+
+<p align="center">
+  <em>Figure: Visual comparison between hand key points estimated by MediaPipe Hand model [9] and proposed model on dark scenes, (a) The poses from radar signals, (b) The poses estimated by MediaPipe.</em>
+</p>
+
+
+
 ```bash
 git clone https://github.com/thetuantrinh/UWB-Radar-Hand-Pose-Estimation.git
 ```
@@ -37,7 +48,3 @@ wandb offline
 ```
 To push all these locally saved wandb logs and information to the cloud (wandb.ai), simple run `wandb sync your-local-wandb-log-folder/offline-run*`. Remeber to replace `your-local-wandb-log-folder` by your own
 
-
-<p align="center">
-  <img src="docs/images/cam_dark_cases_demo.jpg" width="50%">
-</p>
