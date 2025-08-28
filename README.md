@@ -65,6 +65,14 @@ or simply start training with:
 sbatch scripts/train_hpc.sh
 ```
 
+#### 📈 Evaluation
+
+After training, you can evaluate the RadarNet model by running:
+
+```bash
+bash scripts/eval.sh
+```
+
 #### 📊 Tracking Training with Weights & Biases (Wandb)
 
 [Wandb](https://wandb.ai) is a great tool for experiment tracking and visualization.  
