@@ -4,8 +4,8 @@ This repo contains code for manuscript: Radar-Based Hand Pose Estimation: Advanc
 
 
 <p align="center">
-  <img src="docs/images/radar_dark_cases_demo.jpg" alt="(a) Radar signals" width="45%">
-  <img src="docs/images/cam_dark_cases_demo.jpg" alt="(b) Camera signals" width="45%">
+  <img src="doc/images/radar_dark_cases_demo.jpg" alt="(a) Radar signals" width="45%">
+  <img src="doc/images/cam_dark_cases_demo.jpg" alt="(b) Camera signals" width="45%">
 </p>
 
 <p align="center">
