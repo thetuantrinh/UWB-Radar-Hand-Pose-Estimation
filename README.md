@@ -7,8 +7,6 @@ This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based 
 | (a) The poses estimated from FMCW Radar signals | (b) The poses estimated from Camera signals |
 |-------------------|--------------------|
 | ![](doc/images/radar_dark_cases_demo.jpg) | ![](doc/images/cam_dark_cases_demo.jpg) |
-
-*Visual comparison between hand key points estimated by proposed RadarPose model and [MediaPipe Hands](https://arxiv.org/abs/2006.10214) on dark scenes.*
 <p align="center">
   <em>
     Visual comparison between hand key points estimated by proposed RadarNet model and 
