@@ -2,6 +2,7 @@
 
 This repo contains code for manuscript: <span style="color:blue"><b>Radar-Based Hand Pose Estimation: Advancing Human-Computer Interaction with FMCW Radar on Edge Devices</b></span>.
 
+## 🎥 Demo
 
 | (a) The poses estimated from FMCW Radar signals | (b) The poses estimated from Camera signals |
 |-------------------|--------------------|
