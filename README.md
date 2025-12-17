@@ -95,6 +95,9 @@ wandb sync your-local-wandb-log-folder/offline-run*
 ```
 👉 Remeber to replace `your-local-wandb-log-folder` with the path to your actual Wandb logs directory.
 
-### 🧪 The system was tested on: [AlmaLinux release 8.5 (Arctic Sphynx)](https://wiki.almalinux.org/release-notes/8.5.html)
+### 🧪 Experimental System Environment:
+
+- **Training & Testing:** [AlmaLinux 8.5 (Arctic Sphynx)](https://wiki.almalinux.org/release-notes/8.5.html)  
+- **Inference Deployment:** [NVIDIA Jetson Nano (Tegra X1, Quad-core ARM Cortex-A57 CPU, 128-core Maxwell GPU)](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
 
 
