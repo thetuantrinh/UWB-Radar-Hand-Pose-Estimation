@@ -1,6 +1,6 @@
 # FMCW-Radar-Hand-Pose-Estimation
 
-This repo contains code for manuscript: <span style="color:blue"><b>Real-Time Hand Pose Estimation Using FMCW Radar on Resource-Limited Edge Devices</b></span>.
+This repo contains code and dataset for manuscript: <span style="color:blue"><b>Real-Time Hand Pose Estimation Using FMCW Radar on Resource-Limited Edge Devices</b></span>.
 
 ## 🎥 Demo
 #### 🌙 Demo Results in Dark Scenes
