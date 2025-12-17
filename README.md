@@ -103,7 +103,7 @@ wandb sync your-local-wandb-log-folder/offline-run*
 
 ### 🧪 Experimental System Environment:
 
-- **Training & Testing:** [AlmaLinux 8.5 (Arctic Sphynx)](https://wiki.almalinux.org/release-notes/8.5.html)  
+- **Training & Testing:** [AlmaLinux 8.5 (Arctic Sphynx) (NVIDIA DGX A100-SXM4-40GB)](https://wiki.almalinux.org/release-notes/8.5.html)  
 - **Inference Deployment:** [NVIDIA Jetson Nano (Tegra X1, Quad-core ARM Cortex-A57 CPU, 128-core Maxwell GPU)](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
 
 
