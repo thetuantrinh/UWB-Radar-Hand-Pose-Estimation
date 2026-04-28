@@ -107,9 +107,7 @@ wandb sync your-local-wandb-log-folder/offline-run*
 - **Training & Testing:** [AlmaLinux 8.5 (Arctic Sphynx) (NVIDIA DGX A100-SXM4-40GB)](https://wiki.almalinux.org/release-notes/8.5.html)  
 - **Inference Deployment:** [NVIDIA Jetson Nano (Tegra X1, Quad-core ARM Cortex-A57 CPU, 128-core Maxwell GPU)](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
 
-## 📄 Related Publication
-
-[![DOI](https://img.shields.io/badge/DOI-10.1109/JSEN.2026.3686129-blue)](https://doi.org/10.1109/JSEN.2026.3686129)
+### 📄 Publication [![DOI](https://img.shields.io/badge/DOI-10.1109/JSEN.2026.3686129-blue)](https://doi.org/10.1109/JSEN.2026.3686129)
 
 This repository accompanies the paper:
 
