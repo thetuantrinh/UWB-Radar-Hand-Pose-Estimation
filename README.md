@@ -121,9 +121,11 @@ If you use this work, please cite:
   journal={IEEE Sensors Journal}, 
   title={Real-Time Hand Pose Estimation Using FMCW Radar on Resource-Limited Edge Devices}, 
   year={2026},
-  pages={1-1},
-  doi={10.1109/JSEN.2026.3686129}
-}
+  volume={26},
+  number={11},
+  pages={17087-17094},
+  keywords={Antennas;Antenna arrays;Feeds;Antennas and propagation;Central Processing Unit;Low-pass filters;Filters;Electronic circuits;Filtering;Pixel;Cross-modal supervision;deep learning;edge computing;frequency-modulated continuous wave (FMCW) radar;hand pose estimation;TensorRT},
+  doi={10.1109/JSEN.2026.3686129}}
 ```
 
 
