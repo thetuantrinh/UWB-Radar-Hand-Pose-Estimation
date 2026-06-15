@@ -13,7 +13,10 @@ This repo contains code and dataset for article: <span style="color:blue"><b> Re
 
 ## 🎥 Demo
 
-[Google Drive DEMO Link]([https://drive.google.com/drive/folders/FOLDER_ID?usp=sharing](https://drive.google.com/file/d/1Jh3GyQpiKyZDnpNpTI_T_bKxuxX19M54/view?usp=drive_link))
+<a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing">
+  Google Drive DEMO Link
+</a>
+
 <p align="center">
   <img src="doc/images/DEMO.gif" alt="TinyRadar Demo" width="700">
 </p>
