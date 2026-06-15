@@ -18,7 +18,7 @@ This repo contains code and dataset for article: <span style="color:blue"><b> Re
 </a>
 
 <p align="center">
-  <img src="doc/images/DEMO.gif" alt="TinyRadar Demo" width="700">
+  <img src="doc/images/DEMO.gif" alt="TinyRadar Demo" width="800">
 </p>
 
 #### 🌙 Demo Results in Dark Scenes
