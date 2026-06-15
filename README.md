@@ -12,6 +12,11 @@ This repo contains code and dataset for article: <span style="color:blue"><b> Re
 *Index Terms—* Cross-Modal Supervision, Deep Learning, Edge Computing, FMCW Radar, Hand Pose Estimation, TensorRT
 
 ## 🎥 Demo
+
+<p align="center">
+  <img src="doc/images/DEMO.gif" alt="TinyRadar Demo" width="700">
+</p>
+
 #### 🌙 Demo Results in Dark Scenes
 | (a) The poses estimated from FMCW Radar signals | (b) The poses estimated from Camera signals |
 |-------------------|--------------------|
